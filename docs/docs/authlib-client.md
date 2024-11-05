@@ -1,5 +1,5 @@
 ---
-title: 你的客户端应用外置登录
+title: 为客户端应用外置登录
 createTime: 2024/11/05 23:46:01
 permalink: /docs/authlib-client/
 ---
