@@ -3,11 +3,40 @@ title: 使用外置登录服务
 createTime: 2024/11/05 22:59:49
 permalink: /docs/offline-users/
 ---
-<CardGrid>
-<LinkCard title="为你的客户端应用外置登录" icon="emojione:nerd-face" description="在您的启动器上应用RainCraft皮肤站服务" href="/docs/authlib-client/" />
-<LinkCard title="什么是外置登录？" icon="emojione:nerd-face" description="对比离线登录的的优点/优势/原理" href="/docs/yggdrasil/" />
-</CardGrid>
+::: tip 小提示
+RainCraft 使用的是 Yggdrasil 验证鉴权服务，通过[**皮肤站**](https://skin.ineko.cc/) 账号进行外置登录。
 
-为了玩家账户安全，照顾非正版玩家体验，RainCraft采用了 [**自建皮肤站**](https://skin.ineko.cc/) 供非正版玩家们提供了可以进入服务器的另一种登录方式
+注意：该账号无法让你进入正版服务器，因为此账号**不是正版账号**
+:::
 
-如果你没有正版账号(或是离线玩家)，请你点击[**为你的客户端应用外置登录**](/docs/authlib-client/)进行操作。
+
+# 通用启动器解决方案 (例如HMCL PCL)
+
+[*此处为官方教程*](https://blessing.netlify.app/yggdrasil-api/authlib-injector.html#%E9%85%8D%E7%BD%AE%E5%90%AF%E5%8A%A8%E5%99%A8)
+
+1.打开你的启动器，同时也登录 [**皮肤站**](https://skin.ineko.cc/) 账号
+
+2.将 **快速配置启动器** 栏目下的 **将此按钮拖动至启动器** 长按 鼠标左键 拖入到启动器松开，随后在弹出的窗口点击 [完成/确定]
+
+![公测合影图](/images/offline-users/setup.gif)
+
+## PCL 的后续操作
+
+1.在新的页面填写你的邮箱账号和密码，然后点击 [启动游戏]
+
+2.完成登录 Enjoy it~~~
+
+## HMCL 的后续操作
+
+1.点击左上角的 [角色] 进入角色管理界面，在左侧栏点击 **RainCraft**，输入你的邮箱账号和密码，然后点击 [登录]
+
+2.完成登录 Let's go!!!
+
+---
+:::tip 提醒
+
+如果你使用的是Raincraft皮肤站登录，用户名需填入你的注册邮箱。
+
+:::
+
+
