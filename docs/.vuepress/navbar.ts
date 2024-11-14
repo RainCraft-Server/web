@@ -9,7 +9,7 @@ export const zhNavbar = defineNavbarConfig([
     icon: 'icon-park-outline:document-folder',
     items: [
       { text: '开始', link: '/docs/get-start/' },
-      
+      { text: '社区', link: '/docs/community/' },
     ]
   },
   {
@@ -19,6 +19,7 @@ export const zhNavbar = defineNavbarConfig([
       { text: '皮肤站', link: 'https://skin.ineko.cc' },
       { text: '论坛', link: 'https://bbs.mc.ineko.cc' },
       { text: '联合封禁系统', link: 'https://uni-ban.mc.ineko.cc' }
+      { text: '服务器状态', link: 'https://stat.mc.ineko.cc' }
     ]
   },
 ])
@@ -31,6 +32,7 @@ export const enNavbar = defineNavbarConfig([
     items: [
       { text: 'BBS', link: 'https://bbs.mc.ineko.cc' },
       { text: 'Union Ban System', link: 'https://uni-ban.mc.ineko.cc' }
+      { text: 'Server Stats', link: 'https://stat.mc.ineko.cc' }
     ]
   },
 ])

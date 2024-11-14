@@ -39,4 +39,6 @@ RainCraft 使用的是 Yggdrasil 验证鉴权服务，通过[**皮肤站**](http
 
 :::
 
+---
+<LinkCard title="服务器地址发布公告" icon="mdi:minecraft" description="获取最新的Raincraft服务器地址！" href="https://bbs.mc.ineko.cc/d/12-raincraftfu-wu-qi-di-zhi-fa-bu" />
 
