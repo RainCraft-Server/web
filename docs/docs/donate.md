@@ -19,10 +19,12 @@ readingTime: false
 
 | :[bi:alipay]: AliPay                   | :[fa:wechat]: WeChat                      | :[fa6-brands:qq]: QQ                      |
 | -------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| ![Alipay](https://share.ineko.cc/p/localstorage/donate/.qrcodeonly/alipay.png?sign=aL3VK-xK0VR8S-TU2rh9D86XOqaOb5_igJ5fEstvBhA=:0){width="300" height="300" style="width:150px"} | ![WeChat](https://share.ineko.cc/p/localstorage/donate/.qrcodeonly/wechat.png?sign=Y5IWqAxj5lagtUqCWaNfoOEOt5gBgAPhwWM4ycJfhT8=:0){width="300" height="300" style="width:150px"} | ![QQ](https://share.ineko.cc/p/localstorage/donate/.qrcodeonly/qq.png?sign=yraDVEyzq-GkK-t6cc2GxYL5gr4xYKAlfVMLQHQ1gFA=:0){width="300" height="300" style="width:150px"}
+| ![Alipay](https://share.ineko.cc/p/localstorage/donate/.qrcodeonly/alipay.png?sign=aL3VK-xK0VR8S-TU2rh9D86XOqaOb5_igJ5fEstvBhA=:0){width="300" height="300" style="width:150px"} | ![WeChat](https://share.ineko.cc/p/localstorage/donate/.qrcodeonly/wechat_shop.png?sign=OOlXPj8fANy8B08rRvUDeDIWjgqbwXcuM92YC3GPO34=:0){width="300" height="300" style="width:150px"} | ![QQ](https://share.ineko.cc/p/localstorage/donate/.qrcodeonly/qq.png?sign=yraDVEyzq-GkK-t6cc2GxYL5gr4xYKAlfVMLQHQ1gFA=:0){width="300" height="300" style="width:150px"}
 
 ## 打赏记录
 
 | :[ant-design:skin-filled]: 头像        | :[mdi:user-box]: ID                   |
 | -------------------------------------- | ----------------------------------------- |
 | ![mox_77](https://crafatar.com/avatars/d3cfd1a228cb4ebca7d31c73998f19f2){width="30" height="30" style="width:80px"} | mox_77 |
+| ![qhhhomo](https://crafatar.com/avatars/66eaa42fca2949069d99e7ee5731b835){width="30" height="30" style="width:80px"} | qhhhomo |
+| ![yunxfeng](https://crafatar.com/avatars/5921e5eed16b4642afc556c7cee70c07){width="30" height="30" style="width:80px"} | YunXFeng |
