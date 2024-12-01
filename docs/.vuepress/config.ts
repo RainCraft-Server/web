@@ -10,7 +10,7 @@ export default defineUserConfig({
     '/': {
       title: 'RainCraft',
       lang: 'zh-CN',
-      description: 'An Minecraft Server.',
+      description: '又是一个纯净生存养老服。',
     },
     '/en/': {
       title: 'RainCraft',
@@ -24,7 +24,7 @@ export default defineUserConfig({
   theme: plumeTheme({
     // 添加您的部署域名
     hostname: 'https://mc.ineko.cc',
-
+    changelog: true,
     plugins: {
       /**
        * Shiki 代码高亮

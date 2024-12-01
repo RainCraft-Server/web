@@ -27,9 +27,9 @@ export default defineThemeConfig({
   locales: {
     '/': {
       profile: {
-        avatar: '/images/raincraft-1x1.png',
+        avatar: '/images/raincraft-1x1.jpeg',
         name: 'RainCraft',
-        description: 'An Minecraft Server.',
+        description: '又是一个纯净生存养老服',
         circle: true,
         // location: '',
         // organization: '',
@@ -40,7 +40,7 @@ export default defineThemeConfig({
     },
     '/en/': {
       profile: {
-        avatar: '/images/raincraft-1x1.png',
+        avatar: '/images/raincraft-1x1.jpeg',
         name: 'RainCraft',
         description: 'An Minecraft Server.',
         circle: true,
